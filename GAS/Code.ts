@@ -1,22 +1,29 @@
 /// <reference path="setup.js" />
 
 const keywords = [
-  "defer",
-  "incur",
   "blender",
   "liqueur",
-  "prefer",
-  "recur",
-  "confer",
-  "render",
+  "liquor",
   "succour",
-  "occur",
-  "sender",
-  "lender",
-  "splendor",
-  "bartender",
-  "vendor",
-  "mender"
+  "sucker",
+  "diner",
+  "banger",
+  "grinder",
+  "lover",
+  "insider",
+  "69er",
+  "liner",
+  "plower",
+  "power",
+  "filler",
+  "eater",
+  "toaster",
+  "thriller",
+  "fucker",
+  "binder",
+  "sewer",
+  "wiper",
+  "bartender"
 ];
 
 function main() {
