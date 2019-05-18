@@ -1,10 +1,10 @@
-# Clasp Starter Template
+# hardly-knower-bot
 
-Starter template for [Google Apps Script](https://developers.google.com/apps-script/) projects using [clasp](https://github.com/google/clasp).
-
-Includes some helper functions and polyfills that I frequently use.
+A twitter bot that makes "I hardly know her!" jokes at strangers.
 
 ## Setup
+
+### Install stuff
 
 ```bash
 # Make sure clasp & typescript are installed globally
@@ -15,10 +15,13 @@ npm install -g @google/clasp
 npm i -S @types/google-apps-script
 ```
 
-Update `scriptId` in `.clasp.json`
+### Point at Google Apps Script
 
-## Push
+- Create a Google Apps Script
+- Update `.clasp.json`.
+  - `mv .clasp.template.json .clasp.json`
+  - Fill in script id
 
-```bash
-clasp push
-```
+### Twitter API
+
+Aquire Twitter API keys and add them to `GAS/keys.js`

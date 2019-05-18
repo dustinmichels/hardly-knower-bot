@@ -1,24 +1,21 @@
 {
-  "name": "clasp-template",
+  "name": "hardly-knower-bot",
   "version": "1.0.0",
-  "description": "Starter template for Google Apps Script projects using clasp.",
-  "private": true,
-  "dependencies": {
-    "@types/google-apps-script": "0.0.45"
-  },
+  "description": "A twitter bot that makes \"I hardly know her!\" jokes at strangers.",
+  "main": "index.js",
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dustinmichels/clasp-template.git"
+    "url": "git+https://github.com/dustinmichels/hardly-knower-bot.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dustinmichels/clasp-template/issues"
+    "url": "https://github.com/dustinmichels/hardly-knower-bot/issues"
   },
-  "homepage": "https://github.com/dustinmichels/clasp-template#readme"
+  "homepage": "https://github.com/dustinmichels/hardly-knower-bot#readme"
 }
